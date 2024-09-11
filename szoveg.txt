@@ -1,2 +1,1 @@
-első sor
-b2es
+main írása
